@@ -1,8 +1,8 @@
-pip - The Python Package Installer
+pip - The op Package Installer
 ==================================
 
 .. image:: https://img.shields.io/pypi/v/pip.svg
-   :target: https://pypi.org/project/pip/
+   :target: https://p at pypi.org/project/pip/
    :alt: PyPI
 
 .. image:: https://img.shields.io/pypi/pyversions/pip
